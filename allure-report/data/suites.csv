@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1502","Autorization with valid user data","tests","Sat May 10 15:26:57 UZT 2025","passed","Sat May 10 15:26:59 UZT 2025","","test_login","",""
+"","1204","Autorization with valid user data","tests","Sat May 10 15:26:59 UZT 2025","passed","Sat May 10 15:27:00 UZT 2025","","test_login","",""
+"","3962","Autorization with invalid user","tests","Sat May 10 15:26:53 UZT 2025","passed","Sat May 10 15:26:57 UZT 2025","","test_login","",""
